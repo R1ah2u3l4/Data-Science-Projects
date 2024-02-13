@@ -18,7 +18,7 @@ I encourage you to take your time to browse through the projects, explore their 
 Your presence here is valued, and I'm excited to have you on this journey. Please enjoy your visit, and if you have any questions, ideas, or contributions, don't hesitate to reach out.
 
 Warm regards,
-Asireddy Rahul Reddy [Linkedin](ht)
+Asireddy Rahul Reddy [Linkedin]
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression | Car Price Prediction | [Link to Project](https://github.com/R1ah2u3l4/Car-Price-Prediction
