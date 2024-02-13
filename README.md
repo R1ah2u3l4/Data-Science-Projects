@@ -7,9 +7,9 @@ This repository is a collection of my work, featuring various projects that demo
 As you embark on your journey through this digital portfolio, you'll encounter a multitude of projects, each with its unique story, challenges, and solutions. Here, you'll find a reflection of my commitment to excellence and my passion for creating impactful solutions.
 
 ## What to Expect
-- **Innovation:** Explore projects that push the boundaries of creativity and innovation, exemplifying my dedication to pushing the envelope.
+- **Innovation:** Explore different domain based projects that push the boundaries of creativity and innovation, exemplifying my dedication to pushing the envelope.
 
-- **Problem Solving:** Dive into solutions designed to tackle real-world challenges, highlighting my problem-solving skills and commitment to making a positive impact.
+- **Problem Solving:** Dive into solutions designed to tackle real-world challenges, highlighting my problem-solving skills and commitment to make a positive impact.
 
 - **Passion:** Witness the passion that drives me forward in each project, reflecting my unwavering dedication to my craft.
 
