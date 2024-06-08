@@ -22,7 +22,6 @@ Asireddy Rahul Reddy [Linkedin]
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression | Car Price Prediction | [Link to Project](https://github.com/R1ah2u3l4/Car-Price-Prediction
-| Classification | Telecom Churn Prediction | .[Link to Project].(https://github.com/R1ah2u3l4/Telecom-Churn-Prediction----Classification
 | Time Series | Forecasting of TMT Steel Bars |  .[Link to Project]. https://github.com/R1ah2u3l4/Inventory-of-TMT-bars---Forecasting-
 
 
