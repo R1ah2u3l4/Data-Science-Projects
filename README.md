@@ -22,7 +22,12 @@ Asireddy Rahul Reddy [Linkedin]
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression | Car Price Prediction | [Link to Project](https://github.com/R1ah2u3l4/Car-Price-Prediction
-| Time Series | Forecasting of TMT Steel Bars |  .[Link to Project]. https://github.com/R1ah2u3l4/Inventory-of-TMT-bars---Forecasting-
+| Regression | Mileage per Gallon using Linear Reg |  .[Link to Project]. (https://github.com/R1ah2u3l4/Mileage-per-Gallon-prediction----Regression
+| Classification | Makino Machine Unplanned Downtime |  .[Link to Project].(https://github.com/R1ah2u3l4/Makino-Machine-Unplanned-downtime
+| Time Series | Forecasting of TMT Steel Bars |  .[Link to Project]. (https://github.com/R1ah2u3l4/Inventory-of-TMT-bars---Forecasting-
+| RFM Analysis | Customer Segmentation | .[Link to Project]. (https://github.com/R1ah2u3l4/Customer-Segmentation--RFM-analysis
+| Data Visualization | Pallets Distribution |  .[Link to Project]. (https://github.com/R1ah2u3l4/Data-Visualization-PALLETS
+
 
 
 
