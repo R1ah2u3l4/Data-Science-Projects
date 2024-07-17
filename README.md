@@ -27,6 +27,7 @@ Asireddy Rahul Reddy [Linkedin]
 | Classification | Green taxi trip |  .[Link to Project]. (https://github.com/R1ah2u3l4/Green-Taxi---NYC
 | Time Series | Forecasting of TMT Steel Bars |  .[Link to Project]. (https://github.com/R1ah2u3l4/Inventory-of-TMT-bars---Forecasting-
 | RFM Analysis | Customer Segmentation | .[Link to Project]. (https://github.com/R1ah2u3l4/Customer-Segmentation--RFM-analysis
+| NLP (Natural Language Processing | Amazon Review Analysis |    .[Link to Project]. (https://github.com/R1ah2u3l4/NLP--Amazon-review-analysis
 | Gen AI LLM ATS |  ATS Resume Tracking System |   .[Link to Project].  (https://github.com/R1ah2u3l4/Google-Gemini-LLM-models-ATS
 
 
