@@ -22,7 +22,9 @@ Asireddy Rahul Reddy [Linkedin]
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression | Car Price Prediction | [Link to Project](https://github.com/R1ah2u3l4/Car-Price-Prediction
-|              | Mileage per Gallon using Linear Reg |  .[Link to Project]. (https://github.com/R1ah2u3l4/Mileage-per-Gallon-prediction----Regression
+|  Regression | Mileage per Gallon using Linear Reg |  .[Link to Project]. (https://github.com/R1ah2u3l4/Mileage-per-Gallon-prediction----Regression
+|  Regression | Flight Price Prediction |  .[Link to Project]. https://github.com/R1ah2u3l4/Flight-Price-Prediction/tree/main
+
 | Classification | Makino Machine Unplanned Downtime |  .[Link to Project].(https://github.com/R1ah2u3l4/Makino-Machine-Unplanned-downtime
 |                | Green taxi trip |  .[Link to Project]. (https://github.com/R1ah2u3l4/Green-Taxi---NYC
 | Time Series | Forecasting of TMT Steel Bars |  .[Link to Project]. (https://github.com/R1ah2u3l4/Inventory-of-TMT-bars---Forecasting-
